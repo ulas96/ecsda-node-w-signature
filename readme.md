@@ -1,10 +1,3 @@
-## Overview
-
-This project comes from the Alchemy University - Blockchain Developer bootcamp. It has to be
-done at the end of the week 1.
-
-Here is the original readme content.
-
 ## ECDSA Node
 
 This project is an example of using a client and server to facilitate transfers between different addresses. Since there is just a single server on the back-end handling transfers, this is clearly very centralized. We won't worry about distributed consensus for this project.
